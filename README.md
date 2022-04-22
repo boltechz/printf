@@ -50,4 +50,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 
 # Authors
 Boluwatife Akinola
-Udochukwu Reginald
+Udochukwu Ignatius Reginald
